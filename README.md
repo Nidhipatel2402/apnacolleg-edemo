@@ -1,2 +1,2 @@
-# apnacolleg-edemo
+# apnacolleg-demo
 This is my first git Repository
