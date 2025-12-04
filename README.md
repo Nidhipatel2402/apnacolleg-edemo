@@ -1,2 +1,3 @@
-# apnacolleg-demo
+# apnacollege-demo
 This is my first git Repository
+Author - Nidhi patel
